@@ -19,6 +19,10 @@ end
 # rounds #
 ##########
 
+def welcome
+  puts "Welcome to the Blackjack Table"
+end
+
 
 def prompt_user
   puts "Type 'h' to hit or 's' to stay"
